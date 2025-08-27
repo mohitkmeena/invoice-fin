@@ -75,6 +75,17 @@ invoice-ledger/
 - **Storage**: AWS S3
 - **Deployment**: Docker-ready
 
+## 📋 Development Guidelines
+
+### Git Commit Policy
+We follow a comprehensive commit policy to maintain code quality and consistency. Please read our [Git Commit Policy](git-commit-policy.md) before contributing.
+
+### Branching Strategy
+- **`main`**: Production-ready code
+- **`backend`**: Backend development branch  
+- **`frontend`**: Frontend development branch
+- **Feature branches**: `feature/descriptive-name`
+
 ## 🚀 Getting Started
 
 ### Prerequisites
